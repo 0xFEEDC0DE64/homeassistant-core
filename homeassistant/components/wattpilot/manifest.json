@@ -1,0 +1,16 @@
+{
+  "domain": "wattpilot",
+  "name": "Fronius Wattpilot",
+  "after_dependencies": ["zeroconf"],
+  "codeowners": ["@0xFEEDC0DE64"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/wattpilot",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "requirements": [],
+  "zeroconf": [
+    "_fronius_wattpilot._tcp.local.",
+    "_fronius_wattpilot_V2._tcp.local."
+  ]
+}

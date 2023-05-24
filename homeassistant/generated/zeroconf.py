@@ -465,6 +465,36 @@ ZEROCONF = {
             "domain": "freebox",
         },
     ],
+    "_fronius_wattpilot._tcp.local.": [
+        {
+            "domain": "wattpilot",
+        },
+    ],
+    "_fronius_wattpilot_V2._tcp.local.": [
+        {
+            "domain": "wattpilot",
+        },
+    ],
+    "_go-e_controller-lite._tcp._tcp.local.": [
+        {
+            "domain": "goecontroller",
+        },
+    ],
+    "_go-e_controller._tcp.local.": [
+        {
+            "domain": "goecontroller",
+        },
+    ],
+    "_go-e_go-eCharger._tcp.local.": [
+        {
+            "domain": "goecharger",
+        },
+    ],
+    "_go-e_go-eCharger_V4._tcp.local.": [
+        {
+            "domain": "goecharger",
+        },
+    ],
     "_googlecast._tcp.local.": [
         {
             "domain": "cast",

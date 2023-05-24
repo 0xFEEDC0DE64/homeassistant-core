@@ -1,0 +1,16 @@
+{
+  "domain": "goecharger",
+  "name": "go-eCharger",
+  "after_dependencies": ["zeroconf"],
+  "codeowners": ["@0xFEEDC0DE64"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/goecharger",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "requirements": [],
+  "zeroconf": [
+    "_go-e_go-eCharger_V4._tcp.local.",
+    "_go-e_go-eCharger._tcp.local."
+  ]
+}

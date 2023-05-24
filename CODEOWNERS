@@ -517,6 +517,10 @@ build.json @home-assistant/supervisor
 /tests/components/goalzero/ @tkdrob
 /homeassistant/components/gogogate2/ @vangorra
 /tests/components/gogogate2/ @vangorra
+/homeassistant/components/goecharger/ @0xFEEDC0DE64
+/tests/components/goecharger/ @0xFEEDC0DE64
+/homeassistant/components/goecontroller/ @0xFEEDC0DE64
+/tests/components/goecontroller/ @0xFEEDC0DE64
 /homeassistant/components/goodwe/ @mletenay @starkillerOG
 /tests/components/goodwe/ @mletenay @starkillerOG
 /homeassistant/components/google/ @allenporter
@@ -1547,6 +1551,8 @@ build.json @home-assistant/supervisor
 /homeassistant/components/water_heater/ @home-assistant/core
 /tests/components/water_heater/ @home-assistant/core
 /homeassistant/components/watson_tts/ @rutkai
+/homeassistant/components/wattpilot/ @0xFEEDC0DE64
+/tests/components/wattpilot/ @0xFEEDC0DE64
 /homeassistant/components/watttime/ @bachya
 /tests/components/watttime/ @bachya
 /homeassistant/components/waze_travel_time/ @eifinger

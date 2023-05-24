@@ -1,0 +1,16 @@
+{
+  "domain": "goecontroller",
+  "name": "go-e Controller",
+  "after_dependencies": ["zeroconf"],
+  "codeowners": ["@0xFEEDC0DE64"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://www.home-assistant.io/integrations/goecontroller",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "requirements": [],
+  "zeroconf": [
+    "_go-e_controller._tcp.local.",
+    "_go-e_controller-lite._tcp._tcp.local."
+  ]
+}
